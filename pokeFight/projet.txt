@@ -1,0 +1,32 @@
+Pour la partie implémentation, il faudra :
+
+ créer les Classes et les méthodes indiquées
+
+ produire les différentes pages en suivant un design pattern MVC correct 
+
+ produire les documents conceptuels suivants :
+
+ diagramme d’activité du joueur et des tours de jeu
+ diagramme de classe de la Classe Pokemon et Joueur
+ MCD,MLD de la Base de Données Pokemon et Joueur
+
+ utiliser une table pour stocker l'historique des combats (scores ) et pouvoir extraire des 
+statistiques de duels 
+
+ utiliser les namespaces pour séparer les Classes Personnages, Combat, et Base de Données
+
+ utiliser l'introspection, les méthodes magiques , l’injection de dépendances autant que 
+possible vous permettra d'économiser du code …
+
+ mettre en place une gestion correcte des erreurs permettra d 'éviter bien des déboires … 
+
+pour la partie arborescence, il faut les pages suivantes : 
+
+- une page d’accueil qui proposera l’inscription d’un utilisateur, le choix d’un Personnage et le 
+démarrage d’une partie (seul ou a deux ?)
+
+- la page de création/inscription d’un utilisateur (avec modification de son profil)
+
+- la page de la partie (combat / jeu en cours) voir le fichier joint pour l’affichage ...
+
+- une page de fin de partie (avec les différentes fins possibles) et retour à l’accueil
